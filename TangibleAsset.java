@@ -1,4 +1,4 @@
-
+package ex11_01;
 public abstract class TangibleAsset extends Asset {
 	String name;
 	int price;
